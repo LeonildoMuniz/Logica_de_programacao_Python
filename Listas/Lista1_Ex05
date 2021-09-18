@@ -5,4 +5,4 @@ Faça um Programa que converta metros para centímetros.
 a=int(input("Digite uma medida em metros: "))
 
 
-print("Media em centrimetros: ",a*100)
+print("Tamanho em centrimetros: ",a*100)
