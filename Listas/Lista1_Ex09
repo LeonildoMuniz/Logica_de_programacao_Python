@@ -10,4 +10,4 @@ a=float(input("Digite a temperatura em graus Farenheit:"))
 c=(5*(a-32)/9)
 
 
-print(f'Salario a receber {c: .2f}')
+print(f'Temperatura em graus Celsius {c: .2f}')
